@@ -1,21 +1,24 @@
 Collection QGis pour topographies Therion
 ==========================================================================================================
 
-Ce dépôt contient les définitions de couches GQis et les symboles SVG pour visualisé les topographies Therions sur GQis.
+Ce dépôt contient les définitions de couche GQis et les symboles SVG pour visualiser les topographies Therion sur GQis.
 
+Pour plus de détails, modèles et scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly
 
-Pour plus de détails, templates, scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly
 
 
 Description
 -----------
 
-Ce dépôt est en cours de développement, 
+Vu Qgis d'écran QGis, 
 
 .. image:: /screenshot/screenshot_01.jpg
   :align: center
   :width: 400px
 
+.. image:: /screenshot/screenshot_02.jpg
+  :align: center
+  :width: 400px
 
 
 Licence
