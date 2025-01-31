@@ -3,6 +3,8 @@ Collection QGis pour topographies Therion
 
 Ce dépôt contient les définitions de couche GQis et les symboles SVG pour visualiser les topographies Therion sur GQis.
 
+L'ensemble est basé sur les symboles standards de l'UIS
+
 Pour plus de détails, modèles et scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly
 
 
