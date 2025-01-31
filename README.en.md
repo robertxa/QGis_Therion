@@ -25,8 +25,6 @@ License
 All these data are published under the Creative Commons CC BY-NC-ND 4.0 free license (Attribution, ShareAlike, and No Commercial Use):
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-[![Creative Commons License](./screenshot/Licence.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 
 Author
 ------
