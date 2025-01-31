@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   enable-background="new 0 0 651.966 2039.208"
+   height="14.069946"
+   id="Layer_1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="disk_qgis.svg"
+   version="1.1"
+   viewBox="0 0 22.470001 14.069946"
+   width="22.470001"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="namedview109396"
+   inkscape:current-layer="g9033-4"
+   inkscape:cx="8.4300385"
+   inkscape:cy="7.159456"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:pagecheckerboard="0"
+   inkscape:pageopacity="0.0"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1168"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="-8"
+   inkscape:window-y="-10"
+   inkscape:zoom="45.254835"
+   pagecolor="#ffffff"
+   showgrid="false" />
+ <defs
+   id="defs15007" />
+ <g
+   clip-path="url(#SVGID_20_)"
+   id="main"
+   inkscape:label="main"
+   style="display:inline;fill:none"
+   transform="translate(-331.72401,-1708.1091)">
+  <defs
+   id="defs7840">
+   <rect
+   height="15"
+   id="SVGID_670_"
+   width="24"
+   x="330.96899"
+   y="1707.9351" />
+  </defs>
+  <clipPath
+   id="SVGID_671_">
+   <use
+   id="use7842"
+   overflow="visible"
+   xlink:href="#SVGID_670_" />
+  </clipPath>
+  <path
+   clip-path="url(#SVGID_671_)"
+   d="m 331.96899,1708.354 h 21.98 v 13.58 h -21.98 z"
+   fill="param(fill)"
+   fond="{'fill': 'param(fill-opacity)', 'opacity': 'param(fill-opacity)'}"
+   id="fond"
+   inkscape:label="fond"
+   opacity="paramfill(fill-opacity)"
+   style="display:none;fill:#ffffcc;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.49;stroke-linejoin:round;stroke-miterlimit:10"
+   sodipodi:insensitive="true" />
+  
+  
+  
+  
+ <path
+   clip-path="url(#SVGID_673_)"
+   d="m 338.38203,1710.2223 c 0.0212,2.581 0.0368,5.079 0,6.79"
+   id="path8316"
+   style="display:none;fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   sodipodi:nodetypes="cc"
+   sodipodi:insensitive="true" /><path
+   clip-path="url(#SVGID_673_)"
+   d="m 336.83524,1710.7747 0.0221,2.5 c -0.011,1.0226 3.0261,0.3786 3.0936,1.2735 v 1.9338"
+   id="path8318"
+   style="display:none;fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   sodipodi:nodetypes="cccc"
+   sodipodi:insensitive="true" /><g
+   id="g9033-4"
+   style="display:inline;fill:none"
+   transform="matrix(1.4182031,0,0,1.2244427,-136.28189,-382.58517)"><ellipse
+     style="fill:none;stroke:#000000;stroke-width:0.395102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+     id="path9462"
+     cx="337.8053"
+     cy="1710.7054"
+     rx="2.0699604"
+     ry="2.4889729" /><path
+     clip-path="url(#SVGID_673_)"
+     d="m 337.47951,1713.1896 c -0.92905,1.4915 -1.1157,1.7607 -1.88531,2.9458"
+     id="path9464"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.316565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     sodipodi:nodetypes="cc" /><path
+     clip-path="url(#SVGID_673_)"
+     d="m 339.92881,1716.2828 c -0.89365,-1.4946 -1.07322,-1.7644 -1.81356,-2.952"
+     id="path9467"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.310815;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     sodipodi:nodetypes="cc" /></g></g>
+</svg>
