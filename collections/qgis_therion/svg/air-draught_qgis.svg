@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   enable-background="new 0 0 651.966 2039.208"
+   height="3.1500001"
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 14.35 3.1500001"
+   width="14.35"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   sodipodi:docname="air-draught_qgis.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview8127"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="118.9547"
+   inkscape:cx="6.7967049"
+   inkscape:cy="1.572027"
+   inkscape:window-width="1920"
+   inkscape:window-height="1168"
+   inkscape:window-x="-8"
+   inkscape:window-y="-10"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+ <defs
+   id="defs15007">
+  <defs
+   id="defs323">
+   <rect
+   height="1982.5179"
+   id="SVGID_19_"
+   width="595.276"
+   x="28.35"
+   y="28.35" />
+  </defs>
+  <clipPath
+   id="SVGID_20_">
+   <use
+   id="use325"
+   overflow="visible"
+   xlink:href="#SVGID_19_" />
+  </clipPath>
+ </defs>
+ <g
+   clip-path="url(#SVGID_20_)"
+   id="main"
+   style="fill:none"
+   transform="translate(-33.165,-1073.72)">
+  <defs
+   id="defs4157">
+   <rect
+   height="15"
+   id="SVGID_345_"
+   width="24"
+   x="28.35"
+   y="1068.085" />
+  </defs>
+  <clipPath
+   id="SVGID_346_">
+   <use
+   id="use4159"
+   overflow="visible"
+   xlink:href="#SVGID_345_" />
+  </clipPath>
+  <line
+   clip-path="url(#SVGID_348_)"
+   fill="none"
+   id="main4170"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="display:inline;fill:#fefefe;fill-opacity:0"
+   x1="47.34"
+   x2="34.740002"
+   y1="1075.295"
+   y2="1075.295" />
+  <path
+   clip-path="url(#SVGID_348_)"
+   d="m 44.89,1073.895 c 0.35,0.96 1.4,1.4 2.45,1.4"
+   fill="param(fill)"
+   id="main4172"
+   opacity="param(fill-opacity)"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="fill:#fefefe;fill-opacity:0" />
+  <path
+   clip-path="url(#SVGID_348_)"
+   d="m 44.89,1076.695 c 0.35,-0.96 1.4,-1.4 2.45,-1.4"
+   fill="none"
+   id="main4174"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="fill:#fefefe;fill-opacity:0" />
+  <line
+   clip-path="url(#SVGID_348_)"
+   fill="none"
+   id="main4176"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="fill:#fefefe;fill-opacity:0"
+   x1="34.740002"
+   x2="33.34"
+   y1="1075.295"
+   y2="1076.6949" />
+  <line
+   clip-path="url(#SVGID_348_)"
+   fill="none"
+   id="main4178"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="fill:#fefefe;fill-opacity:0"
+   x1="36.139999"
+   x2="34.740002"
+   y1="1075.295"
+   y2="1076.6949" />
+  <line
+   clip-path="url(#SVGID_348_)"
+   fill="none"
+   id="main4180"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.35"
+   style="fill:#fefefe;fill-opacity:0"
+   x1="37.540001"
+   x2="36.139999"
+   y1="1075.295"
+   y2="1076.6949" />
+  
+  
+  
+ </g>
+</svg>
