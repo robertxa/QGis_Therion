@@ -23,8 +23,8 @@ Vu d'écran QGis,
 Licence
 -------
 
-L'ensemble de ces données est publié sous la licence libre Creative Commons CC BY-NC-ND 4.0 (Attribution, partage à l'identique et pas d'utilisation commerciale) :
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+L'ensemble de ces données est publié sous la licence libre Creative Commons CC BY-NC-SA 4.0 (Attribution, partage à l'identique et pas d'utilisation commerciale) :
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 Auteur
