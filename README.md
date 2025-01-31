@@ -1,6 +1,8 @@
 Collection QGis pour topographies Therion
 ==========================================================================================================
 
+🇬🇧 [Read in English](./README.en.md)
+
 Ce dépôt contient les définitions de couche QGis et les symboles SVG pour visualiser les topographies Therion sur QGis.
 
 L'ensemble est basé sur les symboles standards de l'UIS
